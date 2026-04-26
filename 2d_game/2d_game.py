@@ -198,7 +198,7 @@ def on_draw():
     label = pyglet.text.Label('Press Button 1 to start',
                           font_name='Bauhaus 93',
                           font_size=20,
-                          color=(200, 25, 25),
+                          color=(48, 201, 6),
                           x=275, y=WINDOW_HEIGHT/2,)
                           
     if game_start == False:
